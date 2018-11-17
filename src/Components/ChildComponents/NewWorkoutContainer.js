@@ -1,6 +1,6 @@
 import React from 'react'
 
-const NewWorkouterContainer = () =>{
+const NewWorkoutForm = () =>{
   return(
     <div>
       New Workout
@@ -12,4 +12,4 @@ const NewWorkouterContainer = () =>{
 }
 
 
-export default NewWorkouterContainer
+export default NewWorkoutForm

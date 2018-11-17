@@ -1,12 +1,16 @@
 import React, { Component } from 'react';
-import NewExerciseContainer from './Components/Containers/NewExerciseContainer.js'
+import NewExerciseForm from './Components/ChildComponents/NewExerciseForm.js'
+import DailyQuestions from './Components/ChildComponents/DailyQuestions.js'
+import DashboardContainer from './Components/Containers/DashboardContainer.js'
 
 class App extends Component {
   render() {
     return(
-      <div>
-        <NewExerciseContainer/>
-      </div>
+      <center>
+        <div>
+          <DashboardContainer/>
+        </div>
+      </center>
     )
   }
 }
