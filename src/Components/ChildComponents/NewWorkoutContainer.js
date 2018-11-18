@@ -5,7 +5,7 @@ const NewWorkoutForm = () =>{
     <div>
       New Workout
       <form>
-
+        
       </form>
     </div>
   )

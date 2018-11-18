@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import {XYPlot, XAxis, YAxis, HorizontalGridLines, LineMarkSeries} from 'react-vis';
 
 
